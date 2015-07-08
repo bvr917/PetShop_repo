@@ -1,0 +1,4 @@
+com\cg\petshop\jsf\ProductManagerBean.class
+com\cg\petshop\jsf\BuyOrCheckoutOrder.class
+com\cg\petshop\service\BuyProductService.class
+com\cg\petshop\service\IBuyProductService.class
